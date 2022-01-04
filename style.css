@@ -1022,11 +1022,6 @@ input:required {
     margin-bottom: 30px;
   }
 }
-.post-author-area .popular-tags li {
-  display: inline-block;
-  float: left;
-  margin: 3px;
-}
 @media only screen and (max-width: 767px) {
   .post-author-area .post-social-info {
     -webkit-box-flex: 0;

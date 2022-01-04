@@ -458,7 +458,7 @@ input:required {
   width: 40px;
   height: 40px;
   bottom: 40px;
-  background-color: white;
+  background-color: #55b3b1;
   color: #ffffff;
   text-align: center;
   -webkit-transition-duration: 500ms;
@@ -477,7 +477,7 @@ input:required {
 }
 #scrollUp:focus,
 #scrollUp:hover {
-  background-color: #000000;
+  background-color: #a73489;
   color: #ffffff;
 }
 
@@ -756,7 +756,7 @@ input:required {
 .welcome-text p {
   font-family: "Yellowtail", cursive;
   color: #af0069;
-  margin-bottom: 50px;
+  margin-bottom: 80px;
   display: block;
   font-size: 50px;
   text-align: center;
@@ -780,7 +780,7 @@ input:required {
   }
 }
 .footer-content .copywrite-text p a {
-  color: white;
+  color: #55b3b1;
   font-weight: 400;
 }
 @media only screen and (max-width: 767px) {
